@@ -5,3 +5,5 @@ feature
 feature content
 
 feature1
+
+feature2
