@@ -9,3 +9,5 @@ feature1
 feature2
 
 feature_cherry_pick
+
+changes after stash
