@@ -10,4 +10,6 @@ feature2
 
 feature_cherry_pick
 
+stash
+
 changes after stash
